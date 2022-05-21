@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Thảo à!',
     introDesc: `Dù có mệt mỏi thế nào thì em hãy cố gắng nhé! 5 ting`,
-    btnIntro: 'hihi',
+    btnIntro: 'hihihihi',
     title: 'Believe you can and you’re halfway there 😙',
     desc: 'I’m very happy to see you well',
     btnYes: 'Thích anh <33',
