@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'I’m very happy to see you well',
     btnYes: 'Thích anh <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người và mình có cơ hội làm quen nhau hi vọng sắp tới chúng ta sẽ có những kỉ niệm đẹp',
+    question:'Cười lên em nhé! Gửi đôi lời cho a bên dưới nhé ',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu anh',
     mess: 'Anh biết mà 🥰😘😘',
