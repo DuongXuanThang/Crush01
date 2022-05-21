@@ -23,12 +23,11 @@
   bottom: 0;
   left: 0;
   opacity: .8;
-  height: 643px;
-  width: 662px;
+  
   /* height: 100vh; */
   z-index: 0;
   background-repeat: no-repeat;
-  background-image: url(../img/Thao.PNG);
+  background-image: url(../img/bg.webp);
   background-size: cover;
   background-position: 50%;
   -webkit-filter: blur(4px);
